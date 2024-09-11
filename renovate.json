@@ -1,0 +1,7 @@
+{
+    "extends": [
+      "github>tavler-digital/tavler-renovate-config:default-base"
+    ],
+    "automerge": true,
+    "automergeType": "branch"
+  }
