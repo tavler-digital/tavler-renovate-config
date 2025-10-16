@@ -167,7 +167,7 @@
     },
     {
       "description": "Update github actions library at any time",
-      "matchPackageNames": ["capralifecycle/actions-lib"],
+      "matchPackageNames": ["tavler-digital/actions-lib"],
       "enabledManagers": ["github-actions"],
       "stabilityDays": 0,
       "schedule": ["at any time"]
